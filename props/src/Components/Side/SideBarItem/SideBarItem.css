@@ -1,0 +1,9 @@
+.sideBar{
+    display: inline-block;
+    padding: 15px 30px;
+    border: 1px solid rgb(83, 76, 76);
+}
+.sideBar:hover{
+    background-color: black;
+    color: white;
+}

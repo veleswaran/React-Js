@@ -1,0 +1,6 @@
+.navItem{
+    padding: 10px 20px;
+}
+.navItem:hover{
+    background-color: rgb(43, 37, 37);
+}

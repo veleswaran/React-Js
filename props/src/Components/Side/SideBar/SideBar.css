@@ -1,0 +1,6 @@
+.side-bar{
+    width: 30%;
+    background-color: aqua;
+    overflow: auto;
+    margin-left: 7%;
+}
